@@ -1,5 +1,5 @@
 
-📚 Elektron Ta'lim Portfoliom
+📚 Elektron Ta'lim Portfolio
 
  👨‍🏫 Haqimda
 Men  IT bo‘yicha Talaba bo‘lib, elektron ta’lim metodlari va interaktiv texnologiyalarni qo‘llashga intilaman. Maqsadim — ta’limni zamonaviy, qiziqarli va hamma uchun ochiq qilish.
